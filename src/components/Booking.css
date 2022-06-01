@@ -10,7 +10,8 @@
 }
 
 .calendar {
-    margin: 50px;
+    max-width: 800px;
+    margin: 50px auto;
 }
 
 .inputFields {

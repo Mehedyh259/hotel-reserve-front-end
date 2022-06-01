@@ -53,7 +53,6 @@ const Booking = () => {
     }
 
 
-
     return (
         <section className='booking'>
             <h1 className="title">Hotel Booking App</h1>

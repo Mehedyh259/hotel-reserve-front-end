@@ -1,0 +1,59 @@
+.booking {
+    margin-top: 50px;
+}
+
+.booking .title {
+    font-weight: 900;
+    color: #0d0d71;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.calendar {
+    margin: 50px;
+}
+
+.inputFields {
+    display: flex;
+    justify-content: center;
+}
+
+.inputFields>div {
+    margin-left: 25px;
+}
+
+.inputFields p {
+    margin: 0;
+    padding: 0;
+}
+
+.inputFields input {
+    padding: 10px;
+    font-size: 16px;
+}
+
+.submit-button {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.submit-button button {
+    padding: 10px 20px;
+    background: #36369b;
+    outline: none;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.submit-button button:hover {
+    background: #1a1a46;
+}
+
+.error {
+    color: rgb(209, 7, 7);
+    font-weight: bold;
+    margin: 5px 0;
+}
